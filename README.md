@@ -14,7 +14,7 @@ Local/Private Server - Secure
 
 <h2>Tech Stack </h2>
 
-- </b>Streamlit - for user Interface: T interact with chabot easily</b> 
+- </b>Streamlit - for user Interface: To interact with chabot easily</b> 
 - </b>Ollama - LLM Provider: Lets you run LLMs locally, which helps in securing the data in your local server instead of sending it to any other third party llms to their own servers.</b>
 - </b>MongoDB - Store Past Coversations: This helps to maintain chat history and retrieve older sessions. It ensures persistent storage</b>
 - </b>Docker - for Deployment: This is optional, but it makes packaging and deploying the app much simpler </b>
