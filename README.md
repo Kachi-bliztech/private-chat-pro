@@ -4,12 +4,13 @@
 
 <h2>Description</h2>
 This is a self-hosted ChatGPT clone built with full data privacy and secure deployment. It is a private AI assistant that you control completely. No external dependencies.
+<br />
 </h2>Features</h2>
 - </b>User-Friendly interface</b> 
 - </b>Configurable LLM (Ability to switch models)</b> 
 - </b>Storage of Past Conversations</b> 
 - </b>Local/Private Server - Secure</b> 
-<br />
+
 
 
 <h2>Tech Stack </h2>
